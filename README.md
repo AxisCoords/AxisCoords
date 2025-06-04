@@ -17,7 +17,7 @@ Here are some tools and technologies I’ve been working with:
 
 ## 📫 How to Reach Me
 - 💌 Email: behrooz.jamdar@gmail.com
-- 🧠 LinkedIn: [your-linkedin-url](https://www.linkedin.com/in/behrooz-jamdar-5212b9310/)
+- 🧠 LinkedIn: https://www.linkedin.com/in/behrooz-jamdar-5212b9310/
 
 
 Thanks for visiting my profile! Feel free to check out my repositories or connect with me. I'm always open to collaboration and new opportunities.
