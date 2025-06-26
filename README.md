@@ -11,8 +11,8 @@ I'm a student passionate about learning, building, and exploring new technologie
 ## 🛠️ Tech Stack
 Here are some tools and technologies I’ve been working with:
 
-- **Languages:** C/C++, C#, Java, Python, Go
-- **Frameworks & Libraries:** FastAPI, Matplotlib, Pandas, Numpy, MonoGame, Pygame, Go Pixel
+- **Languages:** C/C++, C#, Java, Python, JavaScript/TypeScript, Go, Dart
+- **Frameworks & Libraries:** FastAPI, Matplotlib, Pandas, Numpy, MonoGame, Pygame, Raylib, Go Pixel, Flutter
 - **Tools & Platforms:** Git, GitHub, VS Code, VS 2022, Linux, Windows
 
 ## 📫 How to Reach Me
